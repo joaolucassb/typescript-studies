@@ -1,3 +1,3 @@
-# Repositório para estuados de TypeScript. Curso na Udemy do Professor Luiz Otávio Miranda.
+# Repositório para estudos de TypeScript. Curso na Udemy do Professor Luiz Otávio Miranda.
 
-* Este Repositório tem fins educaionais.
+* Este Repositório tem fins educacionais.
