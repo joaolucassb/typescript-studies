@@ -8,8 +8,6 @@ type AC = 'A' | 'C';
 type AD = 'D' | 'A';
 type Intersecao = AB & AC & AD;
 
-console.log(Intersecao);
-
 const pessoa: Pessoa = {
   nome: 'João',
   sobrenome: 'Lucas',
