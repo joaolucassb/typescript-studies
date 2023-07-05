@@ -10,7 +10,6 @@ interface TipoNomeCompleto {
   nomeCompleto(): string;
 }
 
-type TipoPessoa = TipoNome & TipoSobrenome & TipoNomeCompleto;
 interface TipoPessoa2 extends TipoNome, TipoSobrenome, TipoNomeCompleto {}
 
 export class Pessoa implements TipoPessoa2 {
