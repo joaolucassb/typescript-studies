@@ -14,8 +14,8 @@ console.log(dadosCliente3);
 console.log(dadosCliente4);
 
 //readonly array
-const array: readonly string[] = ['João', 'Lucas'];
-const array2: ReadonlyArray<string> = ['Luiz', 'Otávio'];
+export const array: readonly string[] = ['João', 'Lucas'];
+export const array2: ReadonlyArray<string> = ['Luiz', 'Otávio'];
 
 console.log(array);
 console.log(array2);
