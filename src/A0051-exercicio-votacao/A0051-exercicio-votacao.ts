@@ -59,7 +59,7 @@ votation2.vote(0);
 votation2.vote(2);
 votation2.vote(2);
 votation2.vote(1);
-votation2.vote(0);
+votation2.vote(1);
 votation2.vote(2);
 
 const votationApp = new VotationApp();
